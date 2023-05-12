@@ -1,0 +1,17 @@
+@import '~bootstrap/scss/bootstrap';
+
+header {
+    background-color: rgb(46, 0, 130);
+}
+
+body {
+    background-color: rgb(37, 37, 37);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    background-color: rgb(46, 0, 130);
+}
